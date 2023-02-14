@@ -4,6 +4,7 @@
 
 Git practicals
 
+<<<<<<< HEAD
 op
 
 asdasd
@@ -32,3 +33,7 @@ e
 qw
 eq
 we
+=======
+
+```
+>>>>>>> 0571917 (initial)
